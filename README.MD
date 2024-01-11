@@ -16,4 +16,10 @@ An illustration of the Linked List can be observed in the figure.
 * **TASK2** - Reduce the number of Nodes (Teams) to the nearest power of 2.
 * **TASK3** - Match the Teams by implementing a fighting Queue and a results Stack, until 8 Teams remain. The following functions were implemented: `pop`, `push`, `enQueue`, `deQueue`, `fillQueue`.
 * **TASK4** - Implement a Binary Search Tree with the remaining Teams.
-* **TASK5** - Implement an AVL Tree with the remaining Teams. 
+* **TASK5** - Implement an AVL Tree with the remaining Teams.
+
+### Further Notes
+
+* The project purpose is educational, first and foremost. 
+* The instructions and requirements are available on OCW.
+* Course Data Structures and Algorithms, ACS IS 2023.
